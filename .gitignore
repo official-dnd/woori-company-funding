@@ -1,0 +1,12 @@
+# Local previews and reference-analysis files
+preview.png
+*-preview.png
+reference-*.css
+revise.py
+update-hero.py
+business.svg
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
